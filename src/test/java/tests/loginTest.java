@@ -48,7 +48,7 @@ public class loginTest {
 		
 //       	username.sendKeys(uName);//AgentHunt
 //		password.sendKeys(pwd);//MissionImpossible
-
+// news
 		//Run CMD- mvn -Dusername=AgentHunt -Dpassword=MissionImpossible clean install
 	}
 }
